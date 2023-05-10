@@ -13,5 +13,6 @@ fi
 
 echo "Install homebrew packages"
 brew bundle --file "${CHEZMOI_WORKING_TREE}/home/brewfile"
+brew cleanup
 
 exit 0

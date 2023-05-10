@@ -1,4 +1,40 @@
 brew "zsh" # Unix Z shell
+brew "tmux" # Terminal multiplexer
+brew "gh" # GitHub command-line tool
+brew "docker" # Pack, ship and run any application as a lightweight container
+brew "nvim" # Ambitious Vim-fork focused on extensibility and agility
+brew "bat "# Clone of cat(1) with syntax highlighting and Git integration
+brew "fd" # Simple, fast and user-friendly alternative to find
+brew "ripgrep" # Search tool like grep and The Silver Searcher
+brew "fzf" # Command-line fuzzy finder written in Go
+brew "exa" # Modern replacement for 'ls'
+brew "node" # Platform built on V8 to build network applications
+brew "pnpm" # 📦🚀 Fast, disk space efficient package manager
+brew "go" # Open source programming language to build simple/reliable/efficient software
+brew "git" # Distributed revision control system
+brew "httpie" # User-friendly cURL replacement (command-line HTTP client)
+brew "starship" # Cross-shell prompt for astronauts
+brew "ruby" # Powerful, clean, object-oriented scripting language
+brew "rustup-init" # Rust toolchain installer
+brew "deno" # Secure runtime for JavaScript and TypeScript
+brew "zsh-syntax-highlighting" # Fish shell-like syntax highlighting for Zsh
+brew "zsh-autosuggestions" # Fish-like fast/unobtrusive autosuggestions for zsh
+brew "nvm" # Manage multiple Node.js versions
+brew "z" #Tracks most-used directories to make cd smarter
+brew "ranger" # A VIM-inspired filemanager for the console
+brew "task" # Feature-rich console based todo list manager
+brew "timewarrior" # Command-line time tracking application
+brew "htop" # Improved top (interactive process viewer)
+brew "lua" # Powerful, lightweight programming language
 
+cast "spotify" # Music streaming service
 cask "notion" # App to write, plan, collaborate, and get organized
 cask "obsidian" # Knowledge base that works on top of a local folder of plain text Markdown files
+cask "figma" # Collaborative team design software
+cask "google-chrome" # Web browser
+cask "linear-linear" # App to manage software development and track bugs
+cask "rocket" # Emoji picker
+cask "visual-studio-code" # Open-source code ediotr
+cask "karabiners-elements" # Keyboard customiser
+cask "hammerspoon" # Desktop automation application
+

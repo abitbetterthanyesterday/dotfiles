@@ -1,0 +1,4 @@
+brew "zsh" # Unix Z shell
+
+cask "notion" # App to write, plan, collaborate, and get organized
+cask "obsidian" # Knowledge base that works on top of a local folder of plain text Markdown files

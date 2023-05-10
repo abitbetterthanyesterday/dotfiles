@@ -1,7 +1,12 @@
+tap 'homebrew/cast'
+tap 'homebrew/cask-fonts'
+tap 'homebrew/cask-versions'
+
 brew "zsh" # Unix Z shell
 brew "tmux" # Terminal multiplexer
 brew "gh" # GitHub command-line tool
 brew "docker" # Pack, ship and run any application as a lightweight container
+brew "docker-compose"
 brew "nvim" # Ambitious Vim-fork focused on extensibility and agility
 brew "bat "# Clone of cat(1) with syntax highlighting and Git integration
 brew "fd" # Simple, fast and user-friendly alternative to find
@@ -26,8 +31,14 @@ brew "task" # Feature-rich console based todo list manager
 brew "timewarrior" # Command-line time tracking application
 brew "htop" # Improved top (interactive process viewer)
 brew "lua" # Powerful, lightweight programming language
+brew "tree" # Tree view in the terminal
+brew "jq" # Json utils
+brew "bash"
+brew "bash-completion"
+brew "less"
+brew "kitty"
 
-cast "spotify" # Music streaming service
+cask "spotify" # Music streaming service
 cask "notion" # App to write, plan, collaborate, and get organized
 cask "obsidian" # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "figma" # Collaborative team design software
@@ -37,4 +48,8 @@ cask "rocket" # Emoji picker
 cask "visual-studio-code" # Open-source code ediotr
 cask "karabiners-elements" # Keyboard customiser
 cask "hammerspoon" # Desktop automation application
+cask "slack"
+cask "github"
+cask "iterm2"
+
 

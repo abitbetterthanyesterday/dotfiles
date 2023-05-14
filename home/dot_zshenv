@@ -1,5 +1,4 @@
 alias zshconfig="chezmoi edit ~/.zshrc"
 alias zshsource="source ~/.zshrc"
 alias vim="nvim"
-alias nvim="kitty @ set-spacing padding=0 && nvim"
 alias kpad="kitty @ set-spacing padding=default"
